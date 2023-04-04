@@ -35,7 +35,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://github.com/CS1632/supplementary-exercise-4-ci-cd-junit-GioVersace.git</url>
+      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-junit-GioVersace</url>
       <artifactId>cs1632-cicd-junit-giv</artifactId>
     </repository>
   </distributionManagement>

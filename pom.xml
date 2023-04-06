@@ -33,7 +33,7 @@
     <url>http://github.com/wonsunahn/CS1632_CICD_JUnit/tree/master</url>
    </scm>
   
-  <distributionManagement>    
+    <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
